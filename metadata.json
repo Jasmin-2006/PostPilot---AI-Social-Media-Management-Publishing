@@ -1,0 +1,6 @@
+{
+  "name": "PostPilot - AI Social Media Management & Publishing",
+  "description": "Create once, let AI customize it, publish everywhere, schedule and track all your social media content from one central command center.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
